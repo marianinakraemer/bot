@@ -1,0 +1,6 @@
+Data	Descrição	Valor
+01/09/2024	Compra A	100.00
+02/09/2024	Compra B	200.00
+03/09/2024	Serviço X	150.00
+04/09/2024	Compra C	300.00
+05/09/2024	Serviço Y	250.00

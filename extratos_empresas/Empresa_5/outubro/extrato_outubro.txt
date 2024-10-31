@@ -1,0 +1,6 @@
+Data	Descrição	TAXA	Valor
+01/09/2024	Compra A	500000.00	00.00
+02/09/2024	Compra B	3.50	200.00
+03/09/2024	Serviço X	2.00	150.00
+04/09/2024	Compra C	0.00	3.00
+05/09/2024	Serviço Y	1.50	50.00
